@@ -1,0 +1,15 @@
+{
+  "WaterTint": "#d91919",
+  "SpawnDensity": 0.5,
+  "Tags": {
+    "Zone1": []
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ]
+  }
+}

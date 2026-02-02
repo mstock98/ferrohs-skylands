@@ -1,0 +1,8 @@
+items.PortalKey_Skylands.name=Fragment: Ferroh's Skylands
+items.PortalKey_Skylands.description=<msg key="server.items.PortalKey.description"/>\n\\n\This fragment leads to an archipelago of floating terrain
+
+portals.Skylands.name=Ferroh's Skylands
+portals.Skylands.description=An archipelago of floating terrain
+
+portals.Skylands.tip1=<color is="#05c09a">Make sure to crouch when bridging.</color>
+portals.Skylands.tip2=<color is="#05c09a">Don't fall off!</color>

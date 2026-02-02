@@ -1,0 +1,23 @@
+{
+  "InstanceId": "Skylands",
+  "Description": {
+    "DisplayName": "PortalKey_Skylands.portals.Skylands.name",
+    "FlavorText": "PortalKey_Skylands.portals.Skylands.description",
+    "ThemeColor": "#ffffff",
+    "SplashImage": "PortalTemplate_Artwork.png",
+    "Tips": [
+      "PortalKey_Skylands.portals.Skylands.tip1",
+      "PortalKey_Skylands.portals.Skylands.tip2"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 60,
+    "Center": {
+      "X": 0,
+      "Z": 0,
+      "Y": 100
+    },
+    "Yaw": 90,
+    "ScanHeight": 0
+  }
+}

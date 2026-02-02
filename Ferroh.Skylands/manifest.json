@@ -1,0 +1,20 @@
+{
+  "Group": "Ferroh",
+  "Name": "Skylands",
+  "Version": "0.1.0",
+  "Description": "Adds a portal fragment that takes you to a floating island dimension",
+  "Authors": [
+    {
+      "Name": "Ferroh",
+      "Email": "",
+      "Url": "https://github.com/mstock98"
+    }
+  ],
+  "Website": "https://github.com/mstock98/ferrohs-skylands",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
