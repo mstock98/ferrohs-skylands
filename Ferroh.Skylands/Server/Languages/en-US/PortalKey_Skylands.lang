@@ -4,5 +4,7 @@ items.PortalKey_Skylands.description=<msg key="server.items.PortalKey.descriptio
 portals.Skylands.name=Ferroh's Skylands
 portals.Skylands.description=An archipelago of floating terrain
 
-portals.Skylands.tip1=<color is="#05c09a">Make sure to crouch when bridging.</color>
-portals.Skylands.tip2=<color is="#05c09a">Don't fall off!</color>
+portals.Skylands.tip1=<color is="#05c09a">Bring a water bucket.</color>
+portals.Skylands.tip2=<color is="#05c09a">Bring extra blocks.</color>
+portals.Skylands.tip3=<color is="#05c09a">Silver is found often on the bottoms of islands.</color>
+portals.Skylands.tip4=<color is="#05c09a">There is one type of structure for you to find.</color>

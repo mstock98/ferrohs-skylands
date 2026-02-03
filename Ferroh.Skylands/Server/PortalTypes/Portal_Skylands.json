@@ -4,10 +4,12 @@
     "DisplayName": "PortalKey_Skylands.portals.Skylands.name",
     "FlavorText": "PortalKey_Skylands.portals.Skylands.description",
     "ThemeColor": "#ffffff",
-    "SplashImage": "PortalTemplate_Artwork.png",
+    "SplashImage": "DefaultArtwork.png",
     "Tips": [
       "PortalKey_Skylands.portals.Skylands.tip1",
-      "PortalKey_Skylands.portals.Skylands.tip2"
+      "PortalKey_Skylands.portals.Skylands.tip2",
+      "PortalKey_Skylands.portals.Skylands.tip3",
+      "PortalKey_Skylands.portals.Skylands.tip4"
     ]
   },
   "PlayerSpawn": {
