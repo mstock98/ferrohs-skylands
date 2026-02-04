@@ -10,7 +10,7 @@
   ],
   "PortalKey": {
     "PortalType": "Portal_Skylands",
-    "TimeLimitSeconds": 1800
+    "TimeLimitSeconds": 2700
   },
   "BlockType": {
     "DrawType": "Model",
