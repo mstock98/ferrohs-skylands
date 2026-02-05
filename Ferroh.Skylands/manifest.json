@@ -1,11 +1,11 @@
 {
   "Group": "Ferroh",
   "Name": "Skylands",
-  "Version": "0.3.0",
+  "Version": "0.4.0",
   "Description": "Adds a portal fragment that takes you to a floating island dimension",
   "Authors": [
     {
-      "Name": "Ferroh",
+      "Name": "PharaohFerroh",
       "Email": "",
       "Url": "https://www.curseforge.com/members/pharaohferroh/projects"
     },
@@ -13,9 +13,14 @@
       "Name": "DeathinaBox",
       "Email": "",
       "Url": "https://www.curseforge.com/members/deathinabox/projects"
+    },
+    {
+      "Name": "Sketch",
+      "Email": "",
+      "Url": ""
     }
   ],
-  "Website": "https://github.com/mstock98/ferrohs-skylands",
+  "Website": "https://www.curseforge.com/hytale/mods/ferrohs-skylands",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},
