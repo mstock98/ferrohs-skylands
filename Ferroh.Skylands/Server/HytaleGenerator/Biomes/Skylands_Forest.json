@@ -1399,6 +1399,72 @@
 					"MoldingChildren":	false
 				}
 			}
+		}, {
+			"$NodeId":	"Runtime-540cc3bc-9344-4977-85ac-ce580bec81e0",
+			"Skip":	false,
+			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"Mesh2DPositions-6f8394ee-23b0-47cb-8ec0-138cc1ad92a3",
+				"Type":	"Mesh2D",
+				"Skip":	false,
+				"PointsY":	0,
+				"PointGenerator":	{
+					"$NodeId":	"MeshPointGenerator-1b71f6b5-bdf9-46d5-a2e5-0c8b9017d2f9",
+					"Type":	"Mesh",
+					"Jitter":	0.4,
+					"ScaleX":	8192,
+					"ScaleY":	1,
+					"ScaleZ":	8192,
+					"Seed":	"A"
+				}
+			},
+			"Assignments":	{
+				"$NodeId":	"Constant.Assignments-614c1392-1770-4f8a-add9-e5888452af24",
+				"Type":	"Constant",
+				"Prop":	{
+					"$NodeId":	"Prefab.Prop-569a2536-eafb-4f17-82d4-51ab6267f78d",
+					"Type":	"Prefab",
+					"Skip":	false,
+					"WeightedPrefabPaths":	[{
+							"$NodeId":	"WeightedPath.Prefab.Prop-2ca99615-9986-4cb4-b7c3-90c15173d313",
+							"Path":	"Skylands/Easter_Eggs/Miso_The_Cat",
+							"Weight":	1
+						}],
+					"LegacyPath":	false,
+					"LoadEntities":	true,
+					"Directionality":	{
+						"$NodeId":	"Static.Directionality-2f3007d4-d1cf-43fe-9e88-4ca39df7c16c",
+						"Type":	"Static",
+						"Rotation":	0,
+						"Pattern":	{
+							"$NodeId":	"BlockSet.Pattern-8dec979a-b665-40c4-97a8-b41cbc74044b",
+							"Type":	"BlockSet",
+							"Skip":	false,
+							"BlockSet":	{
+								"$NodeId":	"BlockSet.BlockMask-9ca7f3eb-dd29-491b-bd11-22ac2243b084",
+								"Inclusive":	true,
+								"Materials":	[{
+										"$NodeId":	"Material-77bc965b-a136-4e7b-8402-7f8b3e999861",
+										"Solid":	"Empty"
+									}]
+							}
+						}
+					},
+					"Scanner":	{
+						"$NodeId":	"ColumnLinear.Scanner-b00f8a71-be72-4fe9-88f7-b34444f80280",
+						"Type":	"ColumnLinear",
+						"Skip":	false,
+						"MaxY":	70,
+						"MinY":	60,
+						"RelativeToPosition":	false,
+						"BaseHeightName":	"Base",
+						"TopDownOrder":	true,
+						"ResultCap":	1
+					},
+					"MoldingDirection":	"NONE",
+					"MoldingChildren":	false
+				}
+			}
 		}],
 	"EnvironmentProvider":	{
 		"$NodeId":	"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d",
@@ -1683,6 +1749,18 @@
 					"$y":	734
 				}
 			},
+			"ListPositions-533fe24b-cee0-4b28-9da1-2f6445fd2c74":	{
+				"$Position":	{
+					"$x":	2492,
+					"$y":	736
+				}
+			},
+			"Point3D-bb824e71-2d3d-4aaf-aade-f1657b59408c":	{
+				"$Position":	{
+					"$x":	3159,
+					"$y":	734
+				}
+			},
 			"Constant.Assignments-91be1537-f765-4976-bdec-66bdb3401bc2":	{
 				"$Position":	{
 					"$x":	2495,
@@ -1693,6 +1771,36 @@
 				"$Position":	{
 					"$x":	3145,
 					"$y":	979
+				}
+			},
+			"WeightedPath.Prefab.Prop-b740bcdb-ef14-4c78-b0d7-8bb38f640ba8":	{
+				"$Position":	{
+					"$x":	3945,
+					"$y":	743
+				}
+			},
+			"Static.Directionality-2c6959eb-13ec-4a9d-ba4d-0d2400413ae0":	{
+				"$Position":	{
+					"$x":	3950,
+					"$y":	921
+				}
+			},
+			"BlockSet.Pattern-5f4124d6-4671-4fc9-b99f-db36fa1500b9":	{
+				"$Position":	{
+					"$x":	4590,
+					"$y":	922
+				}
+			},
+			"BlockSet.BlockMask-ba5e1cbd-164d-4305-894d-2afae8280072":	{
+				"$Position":	{
+					"$x":	5251,
+					"$y":	922
+				}
+			},
+			"Material-d9b4b729-ae13-4359-92b6-59f93ad56d40":	{
+				"$Position":	{
+					"$x":	5785,
+					"$y":	924
 				}
 			},
 			"ColumnLinear.Scanner-c7652eea-e9c7-4792-a0cf-cf094ffa7a11":	{
@@ -2991,48 +3099,6 @@
 					"$y":	-53
 				}
 			},
-			"ListPositions-533fe24b-cee0-4b28-9da1-2f6445fd2c74":	{
-				"$Position":	{
-					"$x":	2492,
-					"$y":	736
-				}
-			},
-			"Point3D-bb824e71-2d3d-4aaf-aade-f1657b59408c":	{
-				"$Position":	{
-					"$x":	3159,
-					"$y":	734
-				}
-			},
-			"WeightedPath.Prefab.Prop-b740bcdb-ef14-4c78-b0d7-8bb38f640ba8":	{
-				"$Position":	{
-					"$x":	3945,
-					"$y":	743
-				}
-			},
-			"Static.Directionality-2c6959eb-13ec-4a9d-ba4d-0d2400413ae0":	{
-				"$Position":	{
-					"$x":	3950,
-					"$y":	921
-				}
-			},
-			"BlockSet.Pattern-5f4124d6-4671-4fc9-b99f-db36fa1500b9":	{
-				"$Position":	{
-					"$x":	4590,
-					"$y":	922
-				}
-			},
-			"BlockSet.BlockMask-ba5e1cbd-164d-4305-894d-2afae8280072":	{
-				"$Position":	{
-					"$x":	5251,
-					"$y":	922
-				}
-			},
-			"Material-d9b4b729-ae13-4359-92b6-59f93ad56d40":	{
-				"$Position":	{
-					"$x":	5785,
-					"$y":	924
-				}
-			},
 			"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c":	{
 				"$Position":	{
 					"$x":	3964,
@@ -3091,6 +3157,72 @@
 				"$Position":	{
 					"$x":	3458,
 					"$y":	35516
+				}
+			},
+			"Runtime-540cc3bc-9344-4977-85ac-ce580bec81e0":	{
+				"$Position":	{
+					"$x":	2124,
+					"$y":	20442
+				}
+			},
+			"Mesh2DPositions-6f8394ee-23b0-47cb-8ec0-138cc1ad92a3":	{
+				"$Position":	{
+					"$x":	2675,
+					"$y":	20445
+				}
+			},
+			"MeshPointGenerator-1b71f6b5-bdf9-46d5-a2e5-0c8b9017d2f9":	{
+				"$Position":	{
+					"$x":	3386,
+					"$y":	20446
+				}
+			},
+			"Constant.Assignments-614c1392-1770-4f8a-add9-e5888452af24":	{
+				"$Position":	{
+					"$x":	2681,
+					"$y":	20683
+				}
+			},
+			"Prefab.Prop-569a2536-eafb-4f17-82d4-51ab6267f78d":	{
+				"$Position":	{
+					"$x":	3391,
+					"$y":	20748
+				}
+			},
+			"WeightedPath.Prefab.Prop-2ca99615-9986-4cb4-b7c3-90c15173d313":	{
+				"$Position":	{
+					"$x":	4163,
+					"$y":	20442
+				}
+			},
+			"Static.Directionality-2f3007d4-d1cf-43fe-9e88-4ca39df7c16c":	{
+				"$Position":	{
+					"$x":	4134,
+					"$y":	20789
+				}
+			},
+			"BlockSet.Pattern-8dec979a-b665-40c4-97a8-b41cbc74044b":	{
+				"$Position":	{
+					"$x":	4774,
+					"$y":	20790
+				}
+			},
+			"BlockSet.BlockMask-9ca7f3eb-dd29-491b-bd11-22ac2243b084":	{
+				"$Position":	{
+					"$x":	5435,
+					"$y":	20790
+				}
+			},
+			"Material-77bc965b-a136-4e7b-8402-7f8b3e999861":	{
+				"$Position":	{
+					"$x":	5969,
+					"$y":	20792
+				}
+			},
+			"ColumnLinear.Scanner-b00f8a71-be72-4fe9-88f7-b34444f80280":	{
+				"$Position":	{
+					"$x":	4160,
+					"$y":	20970
 				}
 			}
 		},
@@ -3253,6 +3385,14 @@
 				"$width":	5260.125,
 				"$height":	2081.6875,
 				"$name":	"Azure Pond POI"
+			}, {
+				"$Position":	{
+					"$x":	2094.875,
+					"$y":	20326.6875
+				},
+				"$width":	4556.875,
+				"$height":	1099.5,
+				"$name":	"Miso Easter Egg"
 			}],
 		"$Comments":	[],
 		"$WorkspaceID":	"HytaleGenerator - Biome"
