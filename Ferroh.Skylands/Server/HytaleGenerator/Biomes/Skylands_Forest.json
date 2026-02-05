@@ -208,6 +208,17 @@
 			"$NodeId":	"Runtime-44aea1be-bcae-418d-b211-29b0b4949bdf",
 			"Skip":	false,
 			"Runtime":	0,
+			"Positions":	{
+				"$NodeId":	"ListPositions-533fe24b-cee0-4b28-9da1-2f6445fd2c74",
+				"Type":	"List",
+				"Skip":	false,
+				"Positions":	[{
+						"$NodeId":	"Point3D-bb824e71-2d3d-4aaf-aade-f1657b59408c",
+						"X":	0,
+						"Y":	95,
+						"Z":	0
+					}]
+			},
 			"Assignments":	{
 				"$NodeId":	"Constant.Assignments-91be1537-f765-4976-bdec-66bdb3401bc2",
 				"Type":	"Constant",
@@ -215,8 +226,31 @@
 					"$NodeId":	"Prefab.Prop-6dd1f637-ec6d-48f2-98ef-94cc48327bb6",
 					"Type":	"Prefab",
 					"Skip":	false,
+					"WeightedPrefabPaths":	[{
+							"$NodeId":	"WeightedPath.Prefab.Prop-b740bcdb-ef14-4c78-b0d7-8bb38f640ba8",
+							"Path":	"Skylands/Safety_Island",
+							"Weight":	1
+						}],
 					"LegacyPath":	false,
 					"LoadEntities":	true,
+					"Directionality":	{
+						"$NodeId":	"Static.Directionality-2c6959eb-13ec-4a9d-ba4d-0d2400413ae0",
+						"Type":	"Static",
+						"Rotation":	0,
+						"Pattern":	{
+							"$NodeId":	"BlockSet.Pattern-5f4124d6-4671-4fc9-b99f-db36fa1500b9",
+							"Type":	"BlockSet",
+							"Skip":	false,
+							"BlockSet":	{
+								"$NodeId":	"BlockSet.BlockMask-ba5e1cbd-164d-4305-894d-2afae8280072",
+								"Inclusive":	true,
+								"Materials":	[{
+										"$NodeId":	"Material-d9b4b729-ae13-4359-92b6-59f93ad56d40",
+										"Solid":	"Empty"
+									}]
+							}
+						}
+					},
 					"Scanner":	{
 						"$NodeId":	"ColumnLinear.Scanner-c7652eea-e9c7-4792-a0cf-cf094ffa7a11",
 						"Type":	"ColumnLinear",
@@ -2777,6 +2811,174 @@
 					"$y":	17556
 				}
 			},
+			"Runtime-cfdc3a8e-c5de-48b2-bfca-ddf6ccc87563":	{
+				"$Position":	{
+					"$x":	2119,
+					"$y":	18256
+				}
+			},
+			"Mesh2DPositions-76393c5d-bd95-4d3c-ba7d-1ab930b6fa8b":	{
+				"$Position":	{
+					"$x":	2694,
+					"$y":	18256
+				}
+			},
+			"MeshPointGenerator-858be21e-6429-4ea7-b16a-8ebff7275f86":	{
+				"$Position":	{
+					"$x":	3405,
+					"$y":	18257
+				}
+			},
+			"Constant.Assignments-71c4c5cc-5f21-4b62-9a70-e6c8e3676171":	{
+				"$Position":	{
+					"$x":	2700,
+					"$y":	18494
+				}
+			},
+			"Prefab.Prop-55b67c19-bb62-48ff-a4ef-b0505b3e60cd":	{
+				"$Position":	{
+					"$x":	3410,
+					"$y":	18559
+				}
+			},
+			"WeightedPath.Prefab.Prop-01d009e7-65b6-4395-853f-d626a32f83b5":	{
+				"$Position":	{
+					"$x":	4182,
+					"$y":	18253
+				}
+			},
+			"Static.Directionality-5933b726-dd99-45ec-9a6e-07cec8b3443d":	{
+				"$Position":	{
+					"$x":	4153,
+					"$y":	18600
+				}
+			},
+			"Cuboid.Pattern-2b0134fb-3675-4a82-9bf7-6d93b12c1623":	{
+				"$Position":	{
+					"$x":	4797,
+					"$y":	18600
+				}
+			},
+			"Point3D-db36ff6a-c2f1-4596-b580-af2b37b0aa72":	{
+				"$Position":	{
+					"$x":	5493,
+					"$y":	18432
+				}
+			},
+			"Point3D-a3889fb5-201b-4bfe-9578-5ed04f2956c7":	{
+				"$Position":	{
+					"$x":	5494,
+					"$y":	18639
+				}
+			},
+			"BlockSet.Pattern-fd892aae-d34f-45fa-8b6c-554301659e5a":	{
+				"$Position":	{
+					"$x":	5498,
+					"$y":	18853
+				}
+			},
+			"BlockSet.BlockMask-59a36791-610e-4514-b812-5b989c24378e":	{
+				"$Position":	{
+					"$x":	6159,
+					"$y":	18853
+				}
+			},
+			"Material-96b59c80-87da-4ce6-bd49-2b84fe078cb7":	{
+				"$Position":	{
+					"$x":	6693,
+					"$y":	18855
+				}
+			},
+			"ColumnRandom.Scanner-fd835b64-0e40-4784-925f-572f9d584fc9":	{
+				"$Position":	{
+					"$x":	4181,
+					"$y":	18771
+				}
+			},
+			"Runtime-ed9f4cb0-4f24-4970-96b5-29073b1774d4":	{
+				"$Position":	{
+					"$x":	2102,
+					"$y":	19255
+				}
+			},
+			"Mesh2DPositions-8fabf16c-7f58-4d53-b6a8-39d63bb052b6":	{
+				"$Position":	{
+					"$x":	2677,
+					"$y":	19255
+				}
+			},
+			"MeshPointGenerator-986ec92f-3409-4880-ab56-d30469457f3d":	{
+				"$Position":	{
+					"$x":	3388,
+					"$y":	19256
+				}
+			},
+			"Constant.Assignments-0f751840-406d-484a-aa82-421d9666a8be":	{
+				"$Position":	{
+					"$x":	2683,
+					"$y":	19493
+				}
+			},
+			"Prefab.Prop-9ebb2fd9-c5e6-4640-9322-71324cf343fe":	{
+				"$Position":	{
+					"$x":	3393,
+					"$y":	19558
+				}
+			},
+			"WeightedPath.Prefab.Prop-bc776b81-9d75-4012-9ad2-eba4ce652013":	{
+				"$Position":	{
+					"$x":	4165,
+					"$y":	19252
+				}
+			},
+			"Static.Directionality-92688f60-0456-4251-8541-5e06b158e694":	{
+				"$Position":	{
+					"$x":	4136,
+					"$y":	19599
+				}
+			},
+			"Cuboid.Pattern-0dc81eb8-1448-47aa-af4d-9828e988ac2b":	{
+				"$Position":	{
+					"$x":	4780,
+					"$y":	19599
+				}
+			},
+			"Point3D-3f9d77a5-9594-4f7b-bd57-21acc67a9462":	{
+				"$Position":	{
+					"$x":	5476,
+					"$y":	19431
+				}
+			},
+			"Point3D-cece02c1-c9c0-46ec-a283-63c92bc16e42":	{
+				"$Position":	{
+					"$x":	5477,
+					"$y":	19638
+				}
+			},
+			"BlockSet.Pattern-369b004a-0899-49c6-96c4-e8cc28b7534a":	{
+				"$Position":	{
+					"$x":	5481,
+					"$y":	19852
+				}
+			},
+			"BlockSet.BlockMask-8087d9a6-8476-4992-9ca5-c5eeec854ecf":	{
+				"$Position":	{
+					"$x":	6142,
+					"$y":	19852
+				}
+			},
+			"Material-b5ec1545-ca05-4cf4-b9e0-a91ee41e6f4a":	{
+				"$Position":	{
+					"$x":	6676,
+					"$y":	19854
+				}
+			},
+			"ColumnRandom.Scanner-895aac74-6bd8-44e9-b76d-3bb4492f89ca":	{
+				"$Position":	{
+					"$x":	4164,
+					"$y":	19770
+				}
+			},
 			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
 				"$Position":	{
 					"$x":	1154,
@@ -2890,208 +3092,9 @@
 					"$x":	3458,
 					"$y":	35516
 				}
-			},
-			"Runtime-cfdc3a8e-c5de-48b2-bfca-ddf6ccc87563":	{
-				"$Position":	{
-					"$x":	2119,
-					"$y":	18256
-				}
-			},
-			"Mesh2DPositions-76393c5d-bd95-4d3c-ba7d-1ab930b6fa8b":	{
-				"$Position":	{
-					"$x":	2694,
-					"$y":	18256
-				}
-			},
-			"MeshPointGenerator-858be21e-6429-4ea7-b16a-8ebff7275f86":	{
-				"$Position":	{
-					"$x":	3405,
-					"$y":	18257
-				}
-			},
-			"Constant.Assignments-71c4c5cc-5f21-4b62-9a70-e6c8e3676171":	{
-				"$Position":	{
-					"$x":	2700,
-					"$y":	18494
-				}
-			},
-			"Prefab.Prop-55b67c19-bb62-48ff-a4ef-b0505b3e60cd":	{
-				"$Position":	{
-					"$x":	3410,
-					"$y":	18559
-				}
-			},
-			"WeightedPath.Prefab.Prop-01d009e7-65b6-4395-853f-d626a32f83b5":	{
-				"$Position":	{
-					"$x":	4182,
-					"$y":	18253
-				}
-			},
-			"Static.Directionality-5933b726-dd99-45ec-9a6e-07cec8b3443d":	{
-				"$Position":	{
-					"$x":	4153,
-					"$y":	18600
-				}
-			},
-			"BlockSet.Pattern-fd892aae-d34f-45fa-8b6c-554301659e5a":	{
-				"$Position":	{
-					"$x":	5498,
-					"$y":	18853
-				}
-			},
-			"BlockSet.BlockMask-59a36791-610e-4514-b812-5b989c24378e":	{
-				"$Position":	{
-					"$x":	6159,
-					"$y":	18853
-				}
-			},
-			"Material-96b59c80-87da-4ce6-bd49-2b84fe078cb7":	{
-				"$Position":	{
-					"$x":	6693,
-					"$y":	18855
-				}
-			},
-			"ColumnRandom.Scanner-fd835b64-0e40-4784-925f-572f9d584fc9":	{
-				"$Position":	{
-					"$x":	4181,
-					"$y":	18771
-				}
-			},
-			"Cuboid.Pattern-2b0134fb-3675-4a82-9bf7-6d93b12c1623":	{
-				"$Position":	{
-					"$x":	4797,
-					"$y":	18600
-				}
-			},
-			"Point3D-db36ff6a-c2f1-4596-b580-af2b37b0aa72":	{
-				"$Position":	{
-					"$x":	5493,
-					"$y":	18432
-				}
-			},
-			"Point3D-a3889fb5-201b-4bfe-9578-5ed04f2956c7":	{
-				"$Position":	{
-					"$x":	5494,
-					"$y":	18639
-				}
-			},
-			"Runtime-ed9f4cb0-4f24-4970-96b5-29073b1774d4":	{
-				"$Position":	{
-					"$x":	2102,
-					"$y":	19255
-				}
-			},
-			"Mesh2DPositions-8fabf16c-7f58-4d53-b6a8-39d63bb052b6":	{
-				"$Position":	{
-					"$x":	2677,
-					"$y":	19255
-				}
-			},
-			"MeshPointGenerator-986ec92f-3409-4880-ab56-d30469457f3d":	{
-				"$Position":	{
-					"$x":	3388,
-					"$y":	19256
-				}
-			},
-			"Constant.Assignments-0f751840-406d-484a-aa82-421d9666a8be":	{
-				"$Position":	{
-					"$x":	2683,
-					"$y":	19493
-				}
-			},
-			"Prefab.Prop-9ebb2fd9-c5e6-4640-9322-71324cf343fe":	{
-				"$Position":	{
-					"$x":	3393,
-					"$y":	19558
-				}
-			},
-			"WeightedPath.Prefab.Prop-bc776b81-9d75-4012-9ad2-eba4ce652013":	{
-				"$Position":	{
-					"$x":	4165,
-					"$y":	19252
-				}
-			},
-			"Static.Directionality-92688f60-0456-4251-8541-5e06b158e694":	{
-				"$Position":	{
-					"$x":	4136,
-					"$y":	19599
-				}
-			},
-			"Cuboid.Pattern-0dc81eb8-1448-47aa-af4d-9828e988ac2b":	{
-				"$Position":	{
-					"$x":	4780,
-					"$y":	19599
-				}
-			},
-			"Point3D-3f9d77a5-9594-4f7b-bd57-21acc67a9462":	{
-				"$Position":	{
-					"$x":	5476,
-					"$y":	19431
-				}
-			},
-			"Point3D-cece02c1-c9c0-46ec-a283-63c92bc16e42":	{
-				"$Position":	{
-					"$x":	5477,
-					"$y":	19638
-				}
-			},
-			"BlockSet.Pattern-369b004a-0899-49c6-96c4-e8cc28b7534a":	{
-				"$Position":	{
-					"$x":	5481,
-					"$y":	19852
-				}
-			},
-			"BlockSet.BlockMask-8087d9a6-8476-4992-9ca5-c5eeec854ecf":	{
-				"$Position":	{
-					"$x":	6142,
-					"$y":	19852
-				}
-			},
-			"Material-b5ec1545-ca05-4cf4-b9e0-a91ee41e6f4a":	{
-				"$Position":	{
-					"$x":	6676,
-					"$y":	19854
-				}
-			},
-			"ColumnRandom.Scanner-895aac74-6bd8-44e9-b76d-3bb4492f89ca":	{
-				"$Position":	{
-					"$x":	4164,
-					"$y":	19770
-				}
 			}
 		},
 		"$FloatingNodes":	[{
-				"$NodeId":	"ListPositions-533fe24b-cee0-4b28-9da1-2f6445fd2c74",
-				"Type":	"List",
-				"Skip":	false,
-				"Positions":	[{
-						"$NodeId":	"Point3D-bb824e71-2d3d-4aaf-aade-f1657b59408c",
-						"X":	0,
-						"Y":	95,
-						"Z":	0
-					}]
-			}, {
-				"$NodeId":	"WeightedPath.Prefab.Prop-b740bcdb-ef14-4c78-b0d7-8bb38f640ba8",
-				"Path":	"Skylands/Safety_Island",
-				"Weight":	1
-			}, {
-				"$NodeId":	"Static.Directionality-2c6959eb-13ec-4a9d-ba4d-0d2400413ae0",
-				"Type":	"Static",
-				"Rotation":	0,
-				"Pattern":	{
-					"$NodeId":	"BlockSet.Pattern-5f4124d6-4671-4fc9-b99f-db36fa1500b9",
-					"Type":	"BlockSet",
-					"Skip":	false,
-					"BlockSet":	{
-						"$NodeId":	"BlockSet.BlockMask-ba5e1cbd-164d-4305-894d-2afae8280072",
-						"Inclusive":	true,
-						"Materials":	[{
-								"$NodeId":	"Material-d9b4b729-ae13-4359-92b6-59f93ad56d40",
-								"Solid":	"Empty"
-							}]
-					}
-				}
-			}, {
 				"$NodeId":	"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c",
 				"Path":	"Trees/Ash",
 				"Weight":	0.25
