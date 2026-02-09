@@ -1,0 +1,36 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Ash.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Moss_Blue.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ball_Leaf_GS.png",
+        "Weight": 1
+      }
+    ],
+    "Light": {
+      "Color": "#044"
+    },
+    "Tint": [
+      "#159a6a"
+    ],
+    "ParticleColor": "#156e38",
+    "DrawType": "Model"
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
