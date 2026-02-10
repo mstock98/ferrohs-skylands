@@ -1,3 +1,5 @@
 *.zip
 *.tgz
 *.tar.gz
+*.prefab.json.lpf
+*.prefab.json.bak
