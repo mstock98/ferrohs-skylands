@@ -33,23 +33,6 @@
     "ParticleColor": "#f5f5f5",
     "CubeShadingMode": "Standard"
   },
-  "ResourceTypes": [
-    {
-      "Id": "Wood_Planks"
-    },
-    {
-      "Id": "Fuel"
-    },
-    {
-      "Id": "Charcoal"
-    },
-    {
-      "Id": "Wood_Blackwood"
-    },
-    {
-      "Id": "Wood_Blackwood_Deadwood"
-    }
-  ],
   "Tags": {
     "Type": [
       "Wood"
