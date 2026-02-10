@@ -5,24 +5,6 @@
   "Parent": "Wood_Softwood_Planks",
   "Icon": "Icons/ItemsGenerated/Cloud_Block.png",
   "Set": "Wood_Blackwood_Planks",
-  "Recipe": {
-    "Input": [
-      {
-        "ResourceTypeId": "Wood_Blackwood_Trunk",
-        "Quantity": 1
-      }
-    ],
-    "BenchRequirement": [
-      {
-        "Id": "Builders",
-        "Type": "StructuralCrafting",
-        "Categories": [
-          "WoodPlanks"
-        ]
-      }
-    ],
-    "OutputQuantity": 1
-  },
   "BlockType": {
     "MovementSettings": {
       "IsBouncy": true,
