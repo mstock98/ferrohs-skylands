@@ -1824,7 +1824,7 @@
 					"Skip":	false,
 					"WeightedPrefabPaths":	[{
 							"$NodeId":	"WeightedPath.Prefab.Prop-a6a4021e-bd84-4196-a943-f7b216abf76f",
-							"Path":	"Skylands/Earth_Golem/Void_Sword",
+							"Path":	"Skylands/Earth_Golem/Poison_Bomb",
 							"Weight":	0.834
 						}, {
 							"$NodeId":	"WeightedPath.Prefab.Prop-542ab37c-c8ca-44a6-9376-22a106380cdb",
@@ -2238,18 +2238,6 @@
 				"$Position":	{
 					"$x":	3990,
 					"$y":	2027
-				}
-			},
-			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-241
-				}
-			},
-			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-53
 				}
 			},
 			"Runtime-44aea1be-bcae-418d-b211-29b0b4949bdf":	{
@@ -3960,6 +3948,18 @@
 				"$Position":	{
 					"$x":	3039,
 					"$y":	33529
+				}
+			},
+			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-241
+				}
+			},
+			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-53
 				}
 			},
 			"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c":	{

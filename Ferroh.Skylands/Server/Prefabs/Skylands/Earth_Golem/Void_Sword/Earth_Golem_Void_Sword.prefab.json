@@ -191744,9 +191744,9 @@
         "UIComponentList": {},
         "Transform": {
           "Position": {
-            "X": -9.199630737304688,
-            "Y": 31.015548706054688,
-            "Z": -9.618419647216797
+            "X": -9.214279174804688,
+            "Y": 31.583282470703125,
+            "Z": -9.682079315185547
           },
           "Rotation": {
             "Pitch": 0.0,
@@ -191776,7 +191776,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "lxASA2R1PLOQwnNMznvyAQ==",
+            "$binary": "fVxcMJ+XNASSB/XTX5BNfw==",
             "$type": "04"
           }
         },
@@ -191827,6 +191827,10 @@
               "Id": "DeployablePreview",
               "Value": 0.0
             },
+            "GlidingActive_Skylands": {
+              "Id": "GlidingActive_Skylands",
+              "Value": 1.0
+            },
             "StaminaRegenDelay": {
               "Id": "StaminaRegenDelay",
               "Value": 0.0
@@ -191840,7 +191844,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "lxASA2R1PLOQwnNMznvyAQ==",
+            "$binary": "c6fz/jwsPySaWScKUFsARw==",
             "$type": "04"
           },
           "Inventory": {
@@ -191881,9 +191885,9 @@
           "WorldgenId": 0,
           "PathManager": {},
           "LeashPos": {
-            "X": 41.5,
-            "Y": 86.0,
-            "Z": 41.5
+            "X": 39.80036926269531,
+            "Y": 86.01554870605469,
+            "Z": 42.3815803527832
           },
           "LeashHdg": -2.910278558731079,
           "LeashPtch": 0.0,
@@ -191913,9 +191917,9 @@
         "UIComponentList": {},
         "Transform": {
           "Position": {
-            "X": -4.13677978515625,
-            "Y": 30.935165405273438,
-            "Z": -15.156108856201172
+            "X": -4.190425872802734,
+            "Y": 31.738792419433594,
+            "Z": -15.151512145996094
           },
           "Rotation": {
             "Pitch": 0.0,
@@ -191945,7 +191949,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "uXeBLR9CM6+JO15GZBQ2Fw==",
+            "$binary": "eqvGARQHN3S7wPiMy9mHZw==",
             "$type": "04"
           }
         },
@@ -191996,6 +192000,10 @@
               "Id": "DeployablePreview",
               "Value": 0.0
             },
+            "GlidingActive_Skylands": {
+              "Id": "GlidingActive_Skylands",
+              "Value": 1.0
+            },
             "StaminaRegenDelay": {
               "Id": "StaminaRegenDelay",
               "Value": 0.0
@@ -192009,7 +192017,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "uXeBLR9CM6+JO15GZBQ2Fw==",
+            "$binary": "/5xjlTstNh6bUjaAkz6Fig==",
             "$type": "04"
           },
           "Inventory": {
@@ -192050,9 +192058,9 @@
           "WorldgenId": 0,
           "PathManager": {},
           "LeashPos": {
-            "X": 41.5,
-            "Y": 86.0,
-            "Z": 41.5
+            "X": 44.86322021484375,
+            "Y": 85.93516540527344,
+            "Z": 36.84389114379883
           },
           "LeashHdg": -2.910278558731079,
           "LeashPtch": 0.0,
@@ -192082,9 +192090,9 @@
         "UIComponentList": {},
         "Transform": {
           "Position": {
-            "X": 2.523021697998047,
-            "Y": 30.858383178710938,
-            "Z": -7.243007659912109
+            "X": 2.4961891174316406,
+            "Y": 31.190383911132812,
+            "Z": -7.310783386230469
           },
           "Rotation": {
             "Pitch": 0.0,
@@ -192114,7 +192122,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "ZqFa+bOnNe6v1MAImWMtKA==",
+            "$binary": "5VO68icDOdCnjl1VhoOzLw==",
             "$type": "04"
           }
         },
@@ -192165,6 +192173,10 @@
               "Id": "DeployablePreview",
               "Value": 0.0
             },
+            "GlidingActive_Skylands": {
+              "Id": "GlidingActive_Skylands",
+              "Value": 1.0
+            },
             "StaminaRegenDelay": {
               "Id": "StaminaRegenDelay",
               "Value": 0.0
@@ -192178,7 +192190,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "ZqFa+bOnNe6v1MAImWMtKA==",
+            "$binary": "GSk71tvxNR+YDTMvrei0cg==",
             "$type": "04"
           },
           "Inventory": {
@@ -192219,9 +192231,9 @@
           "WorldgenId": 0,
           "PathManager": {},
           "LeashPos": {
-            "X": 41.5,
-            "Y": 86.0,
-            "Z": 41.5
+            "X": 51.52302169799805,
+            "Y": 85.85838317871094,
+            "Z": 44.75699234008789
           },
           "LeashHdg": -2.910278558731079,
           "LeashPtch": 0.0,
