@@ -290,6 +290,7 @@
 	},
 	"Props":	[{
 			"$NodeId":	"Runtime-44aea1be-bcae-418d-b211-29b0b4949bdf",
+			"$Comment":	"Previous: 0",
 			"Skip":	false,
 			"Runtime":	0,
 			"Positions":	{
@@ -352,8 +353,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-4cfe6741-a28d-4f76-ba1d-3d46f485b7a2",
+			"$Comment":	"Previous: 100",
 			"Skip":	false,
-			"Runtime":	100,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-51027ae4-b292-4336-aaeb-275f30650f9d",
 				"Type":	"Mesh2D",
@@ -422,8 +424,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-dd81e387-ba88-44b9-82a3-b63965868e47",
+			"$Comment":	"Previous: 100",
 			"Skip":	false,
-			"Runtime":	100,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-62d5e8d8-f927-4e02-9076-bf3be0456e09",
 				"Type":	"Mesh2D",
@@ -492,8 +495,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-05e9f21f-834c-4a97-b4cd-7df442c412a7",
+			"$Comment":	"Previous: 1",
 			"Skip":	false,
-			"Runtime":	1,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-94c754cf-0991-4428-9c11-8ca802ff6e47",
 				"Type":	"Mesh2D",
@@ -660,8 +664,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-6d93c2ee-2978-48ed-aa9b-d1b22c22d634",
+			"$Comment":	"Previous: 2",
 			"Skip":	false,
-			"Runtime":	2,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-19ab6493-2e97-41ea-b54f-e2a66f6a6dad",
 				"Type":	"Mesh2D",
@@ -726,8 +731,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-cfdc3a8e-c5de-48b2-bfca-ddf6ccc87563",
+			"$Comment":	"Previous: 3",
 			"Skip":	false,
-			"Runtime":	3,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-76393c5d-bd95-4d3c-ba7d-1ab930b6fa8b",
 				"Type":	"Mesh2D",
@@ -793,8 +799,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-ed9f4cb0-4f24-4970-96b5-29073b1774d4",
+			"$Comment":	"Previous: 3",
 			"Skip":	false,
-			"Runtime":	3,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-8fabf16c-7f58-4d53-b6a8-39d63bb052b6",
 				"Type":	"Mesh2D",
@@ -860,8 +867,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-540cc3bc-9344-4977-85ac-ce580bec81e0",
+			"$Comment":	"Previous: 4",
 			"Skip":	false,
-			"Runtime":	4,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-6f8394ee-23b0-47cb-8ec0-138cc1ad92a3",
 				"Type":	"Mesh2D",
@@ -926,8 +934,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-047c657d-5105-44c1-be47-5de18315cd7b",
+			"$Comment":	"Previous: 5",
 			"Skip":	false,
-			"Runtime":	5,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-3c23f35d-4e45-4374-9e0e-3102552e9d9d",
 				"Type":	"Mesh2D",
@@ -996,8 +1005,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-f247f17b-a100-40b5-b001-2e34b42a8f6f",
+			"$Comment":	"Previous: 6",
 			"Skip":	false,
-			"Runtime":	6,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-fa3e94f5-bc20-4ff8-82a6-70faa60d048c",
 				"Type":	"Mesh2D",
@@ -1106,8 +1116,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-60bb19f3-980b-4572-b786-b39db324fea3",
+			"$Comment":	"Previous: 6",
 			"Skip":	false,
-			"Runtime":	6,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-65ed86ab-0f08-4096-8c4f-49cc0285a523",
 				"Type":	"Mesh2D",
@@ -1216,8 +1227,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-7a4787d4-dedf-490f-820c-c2ed5dda6d39",
+			"$Comment":	"Previous: 101",
 			"Skip":	false,
-			"Runtime":	101,
+			"Runtime":	1,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-939d7412-4c74-48e8-95ca-3866d1b844b0",
 				"Type":	"Mesh2D",
@@ -1494,8 +1506,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-584c247f-0523-4637-896c-07a686aaf7d2",
+			"$Comment":	"Previous: 101",
 			"Skip":	false,
-			"Runtime":	101,
+			"Runtime":	1,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-e114b769-d008-4a43-bc3d-45e6ae2b2b54",
 				"Type":	"Mesh2D",
@@ -1784,8 +1797,9 @@
 			}
 		}, {
 			"$NodeId":	"Runtime-919bef8b-ece1-4d7c-9ecb-1d028d137675",
+			"$Comment":	"Previous: 7",
 			"Skip":	false,
-			"Runtime":	7,
+			"Runtime":	0,
 			"Positions":	{
 				"$NodeId":	"Mesh2DPositions-9a9fe56d-6d37-4877-b658-303857876e71",
 				"Type":	"Mesh2D",
@@ -2226,10 +2240,22 @@
 					"$y":	2027
 				}
 			},
+			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-241
+				}
+			},
+			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-53
+				}
+			},
 			"Runtime-44aea1be-bcae-418d-b211-29b0b4949bdf":	{
 				"$Position":	{
-					"$x":	1360,
-					"$y":	3893
+					"$x":	1361,
+					"$y":	3890
 				}
 			},
 			"ListPositions-533fe24b-cee0-4b28-9da1-2f6445fd2c74":	{
@@ -2894,7 +2920,7 @@
 			},
 			"Runtime-047c657d-5105-44c1-be47-5de18315cd7b":	{
 				"$Position":	{
-					"$x":	1007,
+					"$x":	1006,
 					"$y":	15756
 				}
 			},
@@ -3864,60 +3890,6 @@
 					"$y":	32209
 				}
 			},
-			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-241
-				}
-			},
-			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-53
-				}
-			},
-			"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c":	{
-				"$Position":	{
-					"$x":	3375,
-					"$y":	5182
-				}
-			},
-			"WeightedMaterial-70f03452-7489-471d-b1d1-2f9eec9bcd4d":	{
-				"$Position":	{
-					"$x":	4391,
-					"$y":	9464
-				}
-			},
-			"ConstantMaterialProvider-c720f03b-d249-4ba1-99eb-9119f83e706e":	{
-				"$Position":	{
-					"$x":	4846,
-					"$y":	9466
-				}
-			},
-			"Material-5fed3e35-b5e7-4a65-aa1b-e066f0fbd5ad":	{
-				"$Position":	{
-					"$x":	5518,
-					"$y":	9466
-				}
-			},
-			"WeightedPath.Prefab.Prop-ab516fdb-2bbf-425a-8d9d-d675738568ee":	{
-				"$Position":	{
-					"$x":	3021,
-					"$y":	19670
-				}
-			},
-			"Block.Column.Prop-d27ab01c-9089-462a-a882-eaef4a97cebb":	{
-				"$Position":	{
-					"$x":	4545,
-					"$y":	29346
-				}
-			},
-			"Material-18ed4140-1e30-4348-ab7b-fa2e40974234":	{
-				"$Position":	{
-					"$x":	5062,
-					"$y":	29338
-				}
-			},
 			"Runtime-919bef8b-ece1-4d7c-9ecb-1d028d137675":	{
 				"$Position":	{
 					"$x":	1003,
@@ -3988,6 +3960,48 @@
 				"$Position":	{
 					"$x":	3039,
 					"$y":	33529
+				}
+			},
+			"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c":	{
+				"$Position":	{
+					"$x":	3375,
+					"$y":	5182
+				}
+			},
+			"WeightedMaterial-70f03452-7489-471d-b1d1-2f9eec9bcd4d":	{
+				"$Position":	{
+					"$x":	4391,
+					"$y":	9464
+				}
+			},
+			"ConstantMaterialProvider-c720f03b-d249-4ba1-99eb-9119f83e706e":	{
+				"$Position":	{
+					"$x":	4846,
+					"$y":	9466
+				}
+			},
+			"Material-5fed3e35-b5e7-4a65-aa1b-e066f0fbd5ad":	{
+				"$Position":	{
+					"$x":	5518,
+					"$y":	9466
+				}
+			},
+			"WeightedPath.Prefab.Prop-ab516fdb-2bbf-425a-8d9d-d675738568ee":	{
+				"$Position":	{
+					"$x":	3021,
+					"$y":	19670
+				}
+			},
+			"Block.Column.Prop-d27ab01c-9089-462a-a882-eaef4a97cebb":	{
+				"$Position":	{
+					"$x":	4545,
+					"$y":	29346
+				}
+			},
+			"Material-18ed4140-1e30-4348-ab7b-fa2e40974234":	{
+				"$Position":	{
+					"$x":	5062,
+					"$y":	29338
 				}
 			}
 		},

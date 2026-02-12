@@ -1,7 +1,7 @@
 {
   "Group": "Ferroh",
   "Name": "Skylands",
-  "Version": "0.7.0",
+  "Version": "0.8.0",
   "Description": "Adds a portal fragment that takes you to a floating island dimension",
   "Authors": [
     {
@@ -20,9 +20,9 @@
       "Url": "https://www.curseforge.com/members/senor_squinchy/projects"
     },
     {
-      "Name": "RayoAtlantic",
+      "Name": "Rayo_Atlantic",
       "Email": "",
-      "Url": ""
+      "Url": "https://www.curseforge.com/members/rayo_atlantic/projects"
     }
   ],
   "Website": "https://www.curseforge.com/hytale/mods/ferrohs-skylands",
