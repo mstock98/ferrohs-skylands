@@ -1,0 +1,899 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Flower_Hemlock"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Glowing_Orange"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Crop_Stamina2"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Flower_Hemlock"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

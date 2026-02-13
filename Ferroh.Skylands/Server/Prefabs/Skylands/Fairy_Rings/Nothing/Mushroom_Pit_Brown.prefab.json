@@ -1,0 +1,812 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Cap_Brown",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-05-15T12:00:00Z"
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "ZTJPqBh3ReS10+d0+hW9+w==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Cap_Brown",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-05-15T12:00:00Z"
+          },
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "ZTJPqBh3ReS10+d0+hW9+w==",
+              "$type": "04"
+            }
+          }
+        }
+      }
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Fruit_Coconut"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Fruit_Coconut"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Common_Brown",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-05-15T12:00:00Z",
+            "SpreadRate": 0.5
+          }
+        }
+      }
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Grass_Poisoned",
+      "support": 15
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Grass_Sharp_Tall",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Wild",
+      "support": 15
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Grass_Sharp_Short",
+      "support": 15
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Plant_Crop_Mushroom_Common_Brown"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Plant_Crop_Mushroom_Cap_Brown"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Plant_Crop_Mushroom_Common_Brown",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-05-15T12:00:00Z",
+            "SpreadRate": 0.5
+          }
+        }
+      }
+    }
+  ],
+  "fluids": [
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

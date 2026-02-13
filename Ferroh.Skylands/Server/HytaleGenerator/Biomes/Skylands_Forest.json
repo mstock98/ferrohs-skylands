@@ -128,7 +128,7 @@
 											"Type":	"Constant",
 											"Material":	{
 												"$NodeId":	"Material-6bd83da5-5a4d-45c6-b1fc-80eed01b7c48",
-												"Solid":	"Soil_Grass"
+												"Solid":	"Soil_Grass_Full"
 											}
 										}]
 								}
@@ -256,7 +256,7 @@
 											"Type":	"Constant",
 											"Material":	{
 												"$NodeId":	"Material-ee4a795f-e5ca-43df-a359-79c939d74dfd",
-												"Solid":	"Soil_Grass"
+												"Solid":	"Soil_Grass_Full"
 											}
 										}]
 								}
@@ -402,7 +402,7 @@
 								"Inclusive":	true,
 								"Materials":	[{
 										"$NodeId":	"Material-5b9b8364-f33d-4d3c-a666-c72360005b7e",
-										"Solid":	"Soil_Grass"
+										"Solid":	"Soil_Grass_Full"
 									}]
 							}
 						}
@@ -473,7 +473,7 @@
 								"Inclusive":	true,
 								"Materials":	[{
 										"$NodeId":	"Material-37c880fe-f00d-450e-8b7a-ed272aeb2bf0",
-										"Solid":	"Soil_Grass"
+										"Solid":	"Soil_Grass_Full"
 									}]
 							}
 						}
@@ -1070,7 +1070,7 @@
 								"Inclusive":	true,
 								"Materials":	[{
 										"$NodeId":	"Material-b65673a4-9ea8-4383-8a89-be26be0ec6a3",
-										"Solid":	"Soil_Grass"
+										"Solid":	"Soil_Grass_Full"
 									}]
 							}
 						}
@@ -1108,7 +1108,7 @@
 							"Inclusive":	true,
 							"Materials":	[{
 									"$NodeId":	"Material-15586b05-2184-438d-b086-f03d2f2d87a9",
-									"Solid":	"Soil_Grass"
+									"Solid":	"Soil_Grass_Full"
 								}]
 						}
 					}
@@ -1181,7 +1181,7 @@
 								"Inclusive":	true,
 								"Materials":	[{
 										"$NodeId":	"Material-b1f74cfa-80d6-45e8-8580-10f978a8d6a1",
-										"Solid":	"Soil_Grass"
+										"Solid":	"Soil_Grass_Full"
 									}]
 							}
 						}
@@ -1219,7 +1219,7 @@
 							"Inclusive":	true,
 							"Materials":	[{
 									"$NodeId":	"Material-a7151ae9-a1d5-4a8b-b39b-3f72fcc725f5",
-									"Solid":	"Soil_Grass"
+									"Solid":	"Soil_Grass_Full"
 								}]
 						}
 					}
@@ -1551,7 +1551,7 @@
 										"Y":	-1,
 										"Material":	{
 											"$NodeId":	"Material-90111fe8-d1ea-410d-b94f-c73b3ba4a41f",
-											"Solid":	"Soil_Grass"
+											"Solid":	"Soil_Grass_Full"
 										}
 									}],
 								"Directionality":	{
@@ -1585,7 +1585,7 @@
 												"Inclusive":	true,
 												"Materials":	[{
 														"$NodeId":	"Material-aebda703-882e-4e5d-a722-dbd8403730c3",
-														"Solid":	"Soil_Grass"
+														"Solid":	"Soil_Grass_Full"
 													}]
 											}
 										}
@@ -1668,7 +1668,7 @@
 										"Y":	-1,
 										"Material":	{
 											"$NodeId":	"Material-b146bfda-1f45-4a50-8f1a-0e42f09a0ef3",
-											"Solid":	"Soil_Grass"
+											"Solid":	"Soil_Grass_Full"
 										}
 									}],
 								"Directionality":	{
@@ -1717,7 +1717,7 @@
 										"Y":	-1,
 										"Material":	{
 											"$NodeId":	"Material-e8a79d60-10e1-4509-8398-10060ec83478",
-											"Solid":	"Soil_Grass"
+											"Solid":	"Soil_Grass_Full"
 										}
 									}],
 								"Directionality":	{
@@ -1766,7 +1766,7 @@
 										"Y":	-1,
 										"Material":	{
 											"$NodeId":	"Material-3457ac8d-c518-44f1-847b-b1c3ee2298c5",
-											"Solid":	"Soil_Grass"
+											"Solid":	"Soil_Grass_Full"
 										}
 									}],
 								"Directionality":	{
@@ -3950,6 +3950,150 @@
 					"$y":	33529
 				}
 			},
+			"Runtime-61100635-467a-43c6-8469-19cc3cb5da37":	{
+				"$Position":	{
+					"$x":	1023,
+					"$y":	36051
+				}
+			},
+			"Mesh2DPositions-8790aade-2fba-4533-8aaf-234469beebe3":	{
+				"$Position":	{
+					"$x":	1582,
+					"$y":	36049
+				}
+			},
+			"MeshPointGenerator-b167594d-286c-40f2-926d-735a753daa2a":	{
+				"$Position":	{
+					"$x":	2290,
+					"$y":	36049
+				}
+			},
+			"Constant.Assignments-8afe4208-8da8-42f8-b6b9-b160324b32b7":	{
+				"$Position":	{
+					"$x":	1589,
+					"$y":	36334
+				}
+			},
+			"Prefab.Prop-d459d964-112d-43bf-82d9-de6ea00c0d5e":	{
+				"$Position":	{
+					"$x":	2231,
+					"$y":	36334
+				}
+			},
+			"WeightedPath.Prefab.Prop-af72d630-6094-4f0c-84cf-ab7bd7cbb5c0":	{
+				"$Position":	{
+					"$x":	3023,
+					"$y":	35296
+				}
+			},
+			"WeightedPath.Prefab.Prop-ed5f2492-8f9f-4e2a-a90c-559105380518":	{
+				"$Position":	{
+					"$x":	3021,
+					"$y":	35469
+				}
+			},
+			"WeightedPath.Prefab.Prop-fa61b7c4-ea90-4112-a27f-a614638cdfca":	{
+				"$Position":	{
+					"$x":	3023,
+					"$y":	35639
+				}
+			},
+			"WeightedPath.Prefab.Prop-ffe72904-6587-4844-8c5b-d6ff7624c218":	{
+				"$Position":	{
+					"$x":	3024,
+					"$y":	35811
+				}
+			},
+			"WeightedPath.Prefab.Prop-3eac5d19-bd92-42a2-a276-54b75dc3afb0":	{
+				"$Position":	{
+					"$x":	3027,
+					"$y":	35993
+				}
+			},
+			"WeightedPath.Prefab.Prop-3f721958-4eee-4755-82ae-7708bbbf4734":	{
+				"$Position":	{
+					"$x":	3030,
+					"$y":	36168
+				}
+			},
+			"Random.Directionality-b99199ad-1052-46e7-98ac-2af67dee7c05":	{
+				"$Position":	{
+					"$x":	3033,
+					"$y":	36338
+				}
+			},
+			"Surface.Pattern-f15fc7df-d52d-43de-8032-624fb07e7d97":	{
+				"$Position":	{
+					"$x":	3682,
+					"$y":	36339
+				}
+			},
+			"BlockSet.Pattern-3083b29c-44ea-4c08-b981-0917d6cb1f47":	{
+				"$Position":	{
+					"$x":	4357,
+					"$y":	36338
+				}
+			},
+			"BlockSet.BlockMask-06338b58-7b53-4f4b-99e9-6a230f7468af":	{
+				"$Position":	{
+					"$x":	5008,
+					"$y":	36337
+				}
+			},
+			"Material-56042d8c-79cc-464c-a407-be4df7bcf29f":	{
+				"$Position":	{
+					"$x":	5517,
+					"$y":	36338
+				}
+			},
+			"BlockSet.Pattern-5d9f3c0c-21ca-43a1-b500-8d5d0e176d64":	{
+				"$Position":	{
+					"$x":	4358,
+					"$y":	36487
+				}
+			},
+			"BlockSet.BlockMask-c818e2c0-3365-4337-ad28-160a4ffe3be6":	{
+				"$Position":	{
+					"$x":	5011,
+					"$y":	36489
+				}
+			},
+			"Material-5ea19ae8-091a-46aa-b1ed-f96f405af5cb":	{
+				"$Position":	{
+					"$x":	5518,
+					"$y":	36489
+				}
+			},
+			"ColumnLinear.Scanner-c35a1f78-c7c7-446e-bb2b-3c8776dc684a":	{
+				"$Position":	{
+					"$x":	3035,
+					"$y":	36503
+				}
+			},
+			"ColumnLinear.Scanner-df176ed0-c0a6-4f40-8530-3e7ef8dc51e4":	{
+				"$Position":	{
+					"$x":	3033,
+					"$y":	36900
+				}
+			},
+			"BlockSet.Pattern-a87dd400-fbb3-4f17-98b8-7596eafa8f2d":	{
+				"$Position":	{
+					"$x":	3036,
+					"$y":	37291
+				}
+			},
+			"BlockSet.BlockMask-e35aaaeb-a9d1-415b-a3cc-64c1c89ad2d3":	{
+				"$Position":	{
+					"$x":	3698,
+					"$y":	37292
+				}
+			},
+			"Material-0ed0aba0-698c-4336-9393-30cde812432b":	{
+				"$Position":	{
+					"$x":	4200,
+					"$y":	37292
+				}
+			},
 			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
 				"$Position":	{
 					"$x":	1154,
@@ -4006,6 +4150,140 @@
 			}
 		},
 		"$FloatingNodes":	[{
+				"$NodeId":	"Runtime-61100635-467a-43c6-8469-19cc3cb5da37",
+				"Skip":	false,
+				"Runtime":	1,
+				"Positions":	{
+					"$NodeId":	"Mesh2DPositions-8790aade-2fba-4533-8aaf-234469beebe3",
+					"Type":	"Mesh2D",
+					"Skip":	false,
+					"PointsY":	0,
+					"PointGenerator":	{
+						"$NodeId":	"MeshPointGenerator-b167594d-286c-40f2-926d-735a753daa2a",
+						"Type":	"Mesh",
+						"Jitter":	0.4,
+						"ScaleX":	40,
+						"ScaleY":	40,
+						"ScaleZ":	40,
+						"Seed":	"E"
+					}
+				},
+				"Assignments":	{
+					"$NodeId":	"Constant.Assignments-8afe4208-8da8-42f8-b6b9-b160324b32b7",
+					"Type":	"Constant",
+					"Prop":	{
+						"$NodeId":	"Prefab.Prop-d459d964-112d-43bf-82d9-de6ea00c0d5e",
+						"Type":	"Prefab",
+						"Skip":	false,
+						"WeightedPrefabPaths":	[{
+								"$NodeId":	"WeightedPath.Prefab.Prop-af72d630-6094-4f0c-84cf-ab7bd7cbb5c0",
+								"Path":	"Skylands/Fairy_Rings/Trap_Boom",
+								"Weight":	0.05
+							}, {
+								"$NodeId":	"WeightedPath.Prefab.Prop-ed5f2492-8f9f-4e2a-a90c-559105380518",
+								"Path":	"Skylands/Fairy_Rings/Prisma_Silver",
+								"Weight":	0.025
+							}, {
+								"$NodeId":	"WeightedPath.Prefab.Prop-fa61b7c4-ea90-4112-a27f-a614638cdfca",
+								"Path":	"Skylands/Fairy_Rings/Crystal_Gem",
+								"Weight":	0.025
+							}, {
+								"$NodeId":	"WeightedPath.Prefab.Prop-ffe72904-6587-4844-8c5b-d6ff7624c218",
+								"Path":	"Skylands/Fairy_Rings/Leather_Sapphire",
+								"Weight":	0.1
+							}, {
+								"$NodeId":	"WeightedPath.Prefab.Prop-3eac5d19-bd92-42a2-a276-54b75dc3afb0",
+								"Path":	"Skylands/Fairy_Rings/Common_Food",
+								"Weight":	0.15
+							}, {
+								"$NodeId":	"WeightedPath.Prefab.Prop-3f721958-4eee-4755-82ae-7708bbbf4734",
+								"Path":	"Skylands/Fairy_Rings/Nothing",
+								"Weight":	0.65
+							}],
+						"LegacyPath":	false,
+						"LoadEntities":	true,
+						"Directionality":	{
+							"$NodeId":	"Random.Directionality-b99199ad-1052-46e7-98ac-2af67dee7c05",
+							"Type":	"Random",
+							"Seed":	"A",
+							"Pattern":	{
+								"$NodeId":	"Surface.Pattern-f15fc7df-d52d-43de-8032-624fb07e7d97",
+								"Type":	"Surface",
+								"Skip":	false,
+								"Surface":	{
+									"$NodeId":	"BlockSet.Pattern-3083b29c-44ea-4c08-b981-0917d6cb1f47",
+									"Type":	"BlockSet",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-06338b58-7b53-4f4b-99e9-6a230f7468af",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-56042d8c-79cc-464c-a407-be4df7bcf29f",
+												"Solid":	"Soil_Grass_Full"
+											}]
+									}
+								},
+								"Medium":	{
+									"$NodeId":	"BlockSet.Pattern-5d9f3c0c-21ca-43a1-b500-8d5d0e176d64",
+									"Type":	"BlockSet",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-c818e2c0-3365-4337-ad28-160a4ffe3be6",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-5ea19ae8-091a-46aa-b1ed-f96f405af5cb",
+												"Solid":	"Empty"
+											}]
+									}
+								},
+								"SurfaceRadius":	0,
+								"MediumRadius":	0,
+								"SurfaceGap":	0,
+								"MediumGap":	1,
+								"Facings":	["U"],
+								"RequireAllFacings":	true
+							}
+						},
+						"Scanner":	{
+							"$NodeId":	"ColumnLinear.Scanner-c35a1f78-c7c7-446e-bb2b-3c8776dc684a",
+							"Type":	"ColumnLinear",
+							"Skip":	false,
+							"MaxY":	171,
+							"MinY":	141,
+							"RelativeToPosition":	false,
+							"BaseHeightName":	"Base",
+							"TopDownOrder":	true,
+							"ResultCap":	1
+						},
+						"MoldingDirection":	"DOWN",
+						"MoldingChildren":	true,
+						"MoldingScanner":	{
+							"$NodeId":	"ColumnLinear.Scanner-df176ed0-c0a6-4f40-8530-3e7ef8dc51e4",
+							"Type":	"ColumnLinear",
+							"Skip":	false,
+							"MaxY":	171,
+							"MinY":	141,
+							"RelativeToPosition":	false,
+							"BaseHeightName":	"Base",
+							"TopDownOrder":	true,
+							"ResultCap":	1
+						},
+						"MoldingPattern":	{
+							"$NodeId":	"BlockSet.Pattern-a87dd400-fbb3-4f17-98b8-7596eafa8f2d",
+							"Type":	"BlockSet",
+							"Skip":	false,
+							"BlockSet":	{
+								"$NodeId":	"BlockSet.BlockMask-e35aaaeb-a9d1-415b-a3cc-64c1c89ad2d3",
+								"Inclusive":	true,
+								"Materials":	[{
+										"$NodeId":	"Material-0ed0aba0-698c-4336-9393-30cde812432b",
+										"Solid":	"Soil_Grass_Full"
+									}]
+							}
+						}
+					}
+				}
+			}, {
 				"$NodeId":	"WeightedPath.Prefab.Prop-916c5f5c-28ec-4a6c-abd4-d62466629b4c",
 				"Path":	"Trees/Ash",
 				"Weight":	0.25
@@ -4029,7 +4307,7 @@
 				"Y":	-1,
 				"Material":	{
 					"$NodeId":	"Material-18ed4140-1e30-4348-ab7b-fa2e40974234",
-					"Solid":	"Soil_Grass"
+					"Solid":	"Soil_Grass_Full"
 				}
 			}],
 		"$Links":	{
@@ -4186,6 +4464,14 @@
 				"$width":	4654.375,
 				"$height":	1185,
 				"$name":	"Earth Golem Arena"
+			}, {
+				"$Position":	{
+					"$x":	960.375,
+					"$y":	35188.875
+				},
+				"$width":	5267.6875,
+				"$height":	2335.75,
+				"$name":	"Fairy Rings"
 			}],
 		"$Comments":	[],
 		"$WorkspaceID":	"HytaleGenerator - Biome"
