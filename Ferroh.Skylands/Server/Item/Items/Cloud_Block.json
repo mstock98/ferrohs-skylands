@@ -2,8 +2,8 @@
   "TranslationProperties": {
     "Name": "Cloud_Block.items.Cloud_Block.name"
   },
-  "Parent": "Wood_Softwood_Planks",
   "Icon": "Icons/ItemsGenerated/Cloud_Block.png",
+  "PlayerAnimationsId": "Block",
   "Set": "Wood_Blackwood_Planks",
   "BlockType": {
     "MovementSettings": {
