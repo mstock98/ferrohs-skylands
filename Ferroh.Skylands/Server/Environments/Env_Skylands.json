@@ -10,6 +10,144 @@
         "WeatherId": "Skylands_Default",
         "Weight": 1
       }
+    ],
+    "1": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "Skylands_Default",
+        "Weight": 1
+      }
     ]
   }
 }
