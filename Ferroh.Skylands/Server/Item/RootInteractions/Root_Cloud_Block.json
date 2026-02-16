@@ -34,43 +34,7 @@
     "CubeShadingMode": "Standard",
     "Group": "Snow",
     "MaxSupportDistance": 14,
-    "SupportsRequiredFor": "All",
-    "Support": {
-      "All": [
-        {
-          "Support": "Ignored"
-        }
-      ]
-    },
-    "SupportDropType": "Destroy",
-    "Interactions": {
-      "Collision": {
-        "Cooldown": {
-          "Id": "Freeze",
-          "Cooldown": 1
-        },
-        "Interactions": [
-          {
-            "Type": "Condition",
-            "RequiredGameMode": "Adventure",
-            "Next": {
-              "Type": "ApplyEffect",
-              "EffectId": {
-                "Duration": 1,
-                "OverlapBehavior": "Overwrite",
-                "ApplicationEffects": {
-                  "HorizontalSpeedMultiplier": 0.5
-                }
-              },
-              "Next": {
-                "Type": "ApplyEffect",
-                "EffectId": "Freeze"
-              }
-            }
-          }
-        ]
-      }
-    }
+    "SupportsRequiredFor": "All"
   },
   "IconProperties": {
     "Scale": 0.58823,

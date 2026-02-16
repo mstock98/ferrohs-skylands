@@ -1,0 +1,53 @@
+{
+  "TranslationProperties": {
+    "Name": "Cloud_Block.items.Cloud_Block.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Cloud_Block.png",
+  "PlayerAnimationsId": "Block",
+  "Set": "Clouds",
+  "BlockType": {
+    "MovementSettings": {
+      "IsBouncy": false,
+      "BounceVelocity": 0
+    },
+    "DrawType": "Cube",
+    "Material": "Empty",
+    "Opacity": "Solid",
+    "RequiresAlphaBlending": true,
+    "BlockParticleSetId": "Snow",
+    "BlockSoundSetId": "Snow",
+    "ParticleColor": "#f5f5f5",
+    "CubeShadingMode": "Standard",
+    "Group": "Snow",
+    "MaxSupportDistance": 14,
+    "SupportsRequiredFor": "All",
+    "Support": {
+      "All": [
+        {
+          "Support": "Ignored"
+        }
+      ]
+    },
+    "Interactions": {
+      "Collision": "Block_Damage"
+    },
+    "Textures": [
+      {
+        "All": "BlockTextures/Poison_Cloud.png",
+        "Weight": 100
+      }
+    ]
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
