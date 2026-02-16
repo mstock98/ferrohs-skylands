@@ -1,0 +1,37 @@
+{
+  "TranslationProperties": {
+    "Name": "Plant_Leaves_Skylands.items_Plant_Leaves_Skylands.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Leaves_Skylands.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ball_Leaf_GS.png",
+        "Weight": 1
+      }
+    ],
+    "Light": {
+      "Color": "#044"
+    },
+    "Tint": [
+      "#159a6a"
+    ],
+    "ParticleColor": "#156e38",
+    "DrawType": "Model",
+    "BiomeTint": 100
+  },
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}
