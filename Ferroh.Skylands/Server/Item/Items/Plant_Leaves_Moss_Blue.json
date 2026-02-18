@@ -19,7 +19,8 @@
       "#159a6a"
     ],
     "ParticleColor": "#156e38",
-    "DrawType": "Model"
+    "DrawType": "Model",
+    "BiomeTint": 0
   },
   "IconProperties": {
     "Scale": 0.58823,
