@@ -1908,98 +1908,6 @@
 					"MoldingChildren":	false
 				}
 			}
-		}, {
-			"$NodeId":	"Runtime-54e8d785-a939-4bd1-8a1d-f77d3fa03836",
-			"Skip":	false,
-			"Runtime":	0,
-			"Positions":	{
-				"$NodeId":	"Mesh2DPositions-4b89fc74-0f7f-4d5b-b993-7bf4a8f57d1c",
-				"Type":	"Mesh2D",
-				"Skip":	false,
-				"PointsY":	0,
-				"PointGenerator":	{
-					"$NodeId":	"MeshPointGenerator-0de28057-a5d9-4bb6-bdf8-d9ae97b3ab2b",
-					"Type":	"Mesh",
-					"Jitter":	0.4,
-					"ScaleX":	200,
-					"ScaleY":	1,
-					"ScaleZ":	200,
-					"Seed":	"E"
-				}
-			},
-			"Assignments":	{
-				"$NodeId":	"Constant.Assignments-16b586a0-2d49-4f44-9c04-d5fcdef9acc7",
-				"Type":	"Constant",
-				"Prop":	{
-					"$NodeId":	"Prefab.Prop-63b9eb2c-628f-4a5e-8f79-d7737467c39c",
-					"Type":	"Prefab",
-					"Skip":	false,
-					"WeightedPrefabPaths":	[{
-							"$NodeId":	"WeightedPath.Prefab.Prop-2e93f68a-0df7-4c60-bb3c-26bdc3ab68bc",
-							"Path":	"Skylands/Aqua_Stone_Dungeon",
-							"Weight":	1
-						}],
-					"LegacyPath":	false,
-					"LoadEntities":	true,
-					"Directionality":	{
-						"$NodeId":	"Random.Directionality-d9bfb298-3433-42c8-b83e-a2ce680f61e0",
-						"Type":	"Random",
-						"Seed":	"A",
-						"Pattern":	{
-							"$NodeId":	"Cuboid.Pattern-ea27efe1-a5a5-4553-aaab-42ec74740a8c",
-							"Type":	"Cuboid",
-							"Skip":	false,
-							"Max":	{
-								"$NodeId":	"Point3D-bf58efb5-7d5a-4e23-85ff-3ffa69458a1f",
-								"X":	15,
-								"Y":	-8,
-								"Z":	15
-							},
-							"Min":	{
-								"$NodeId":	"Point3D-4d1993bf-aae9-4e87-96d0-57cdd5dd14a9",
-								"X":	-15,
-								"Y":	-8,
-								"Z":	-15
-							},
-							"SubPattern":	{
-								"$NodeId":	"BlockSet.Pattern-e8c6e752-6f30-429f-a29f-d2ee165430b0",
-								"Type":	"BlockSet",
-								"Skip":	false,
-								"BlockSet":	{
-									"$NodeId":	"BlockSet.BlockMask-44649489-f913-4969-a068-64916b9128a2",
-									"Inclusive":	true,
-									"Materials":	[{
-											"$NodeId":	"Material-245ebe82-4219-4e80-a9e1-e1cc8844c59c",
-											"Solid":	"Soil_Grass_Full",
-											"SolidBottomUp":	false
-										}, {
-											"$NodeId":	"Material-158e1bf9-8ee6-451a-96c4-cacdd33dd2ea",
-											"Solid":	"Soil_Dirt",
-											"SolidBottomUp":	false
-										}, {
-											"$NodeId":	"Material-0bfd721c-5ddb-4d98-a542-a792d0f78f82",
-											"Solid":	"Rock_Marble",
-											"SolidBottomUp":	false
-										}]
-								}
-							}
-						}
-					},
-					"Scanner":	{
-						"$NodeId":	"ColumnLinear.Scanner-02a652fd-6e70-4778-ade6-fa8ada06b406",
-						"Type":	"ColumnLinear",
-						"Skip":	false,
-						"MaxY":	150,
-						"MinY":	0,
-						"RelativeToPosition":	false,
-						"BaseHeightName":	"Base",
-						"TopDownOrder":	true,
-						"ResultCap":	1
-					},
-					"MoldingDirection":	"NONE",
-					"MoldingChildren":	false
-				}
-			}
 		}],
 	"EnvironmentProvider":	{
 		"$NodeId":	"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d",
@@ -4084,18 +3992,6 @@
 					"$y":	33529
 				}
 			},
-			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-241
-				}
-			},
-			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
-				"$Position":	{
-					"$x":	1154,
-					"$y":	-53
-				}
-			},
 			"Runtime-54e8d785-a939-4bd1-8a1d-f77d3fa03836":	{
 				"$Position":	{
 					"$x":	996,
@@ -4138,6 +4034,24 @@
 					"$y":	34613
 				}
 			},
+			"Cuboid.Pattern-ea27efe1-a5a5-4553-aaab-42ec74740a8c":	{
+				"$Position":	{
+					"$x":	3710,
+					"$y":	34783
+				}
+			},
+			"Point3D-bf58efb5-7d5a-4e23-85ff-3ffa69458a1f":	{
+				"$Position":	{
+					"$x":	4441,
+					"$y":	34490
+				}
+			},
+			"Point3D-4d1993bf-aae9-4e87-96d0-57cdd5dd14a9":	{
+				"$Position":	{
+					"$x":	4439,
+					"$y":	34671
+				}
+			},
 			"BlockSet.Pattern-e8c6e752-6f30-429f-a29f-d2ee165430b0":	{
 				"$Position":	{
 					"$x":	4437,
@@ -4156,10 +4070,34 @@
 					"$y":	34709
 				}
 			},
+			"Material-158e1bf9-8ee6-451a-96c4-cacdd33dd2ea":	{
+				"$Position":	{
+					"$x":	5633,
+					"$y":	34858
+				}
+			},
+			"Material-0bfd721c-5ddb-4d98-a542-a792d0f78f82":	{
+				"$Position":	{
+					"$x":	5634,
+					"$y":	35012
+				}
+			},
 			"ColumnLinear.Scanner-02a652fd-6e70-4778-ade6-fa8ada06b406":	{
 				"$Position":	{
 					"$x":	3032,
 					"$y":	34795
+				}
+			},
+			"Constant.EnvironmentProvider-e0158353-7d0a-4194-bb69-22f299b1849d":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-241
+				}
+			},
+			"Constant.TintProvider-8f9544c8-0652-42b4-8df5-c77735d5201e":	{
+				"$Position":	{
+					"$x":	1154,
+					"$y":	-53
 				}
 			},
 			"Runtime-61100635-467a-43c6-8469-19cc3cb5da37":	{
@@ -4371,39 +4309,101 @@
 					"$x":	754346,
 					"$y":	792410
 				}
-			},
-			"Cuboid.Pattern-ea27efe1-a5a5-4553-aaab-42ec74740a8c":	{
-				"$Position":	{
-					"$x":	3710,
-					"$y":	34783
-				}
-			},
-			"Point3D-bf58efb5-7d5a-4e23-85ff-3ffa69458a1f":	{
-				"$Position":	{
-					"$x":	4441,
-					"$y":	34490
-				}
-			},
-			"Point3D-4d1993bf-aae9-4e87-96d0-57cdd5dd14a9":	{
-				"$Position":	{
-					"$x":	4439,
-					"$y":	34671
-				}
-			},
-			"Material-158e1bf9-8ee6-451a-96c4-cacdd33dd2ea":	{
-				"$Position":	{
-					"$x":	5633,
-					"$y":	34858
-				}
-			},
-			"Material-0bfd721c-5ddb-4d98-a542-a792d0f78f82":	{
-				"$Position":	{
-					"$x":	5634,
-					"$y":	35012
-				}
 			}
 		},
 		"$FloatingNodes":	[{
+				"$NodeId":	"Runtime-54e8d785-a939-4bd1-8a1d-f77d3fa03836",
+				"Skip":	false,
+				"Runtime":	0,
+				"Positions":	{
+					"$NodeId":	"Mesh2DPositions-4b89fc74-0f7f-4d5b-b993-7bf4a8f57d1c",
+					"Type":	"Mesh2D",
+					"Skip":	false,
+					"PointsY":	0,
+					"PointGenerator":	{
+						"$NodeId":	"MeshPointGenerator-0de28057-a5d9-4bb6-bdf8-d9ae97b3ab2b",
+						"Type":	"Mesh",
+						"Jitter":	0.4,
+						"ScaleX":	200,
+						"ScaleY":	1,
+						"ScaleZ":	200,
+						"Seed":	"E"
+					}
+				},
+				"Assignments":	{
+					"$NodeId":	"Constant.Assignments-16b586a0-2d49-4f44-9c04-d5fcdef9acc7",
+					"Type":	"Constant",
+					"Prop":	{
+						"$NodeId":	"Prefab.Prop-63b9eb2c-628f-4a5e-8f79-d7737467c39c",
+						"Type":	"Prefab",
+						"Skip":	false,
+						"WeightedPrefabPaths":	[{
+								"$NodeId":	"WeightedPath.Prefab.Prop-2e93f68a-0df7-4c60-bb3c-26bdc3ab68bc",
+								"Path":	"Skylands/Aqua_Stone_Dungeon",
+								"Weight":	1
+							}],
+						"LegacyPath":	false,
+						"LoadEntities":	true,
+						"Directionality":	{
+							"$NodeId":	"Random.Directionality-d9bfb298-3433-42c8-b83e-a2ce680f61e0",
+							"Type":	"Random",
+							"Seed":	"A",
+							"Pattern":	{
+								"$NodeId":	"Cuboid.Pattern-ea27efe1-a5a5-4553-aaab-42ec74740a8c",
+								"Type":	"Cuboid",
+								"Skip":	false,
+								"Max":	{
+									"$NodeId":	"Point3D-bf58efb5-7d5a-4e23-85ff-3ffa69458a1f",
+									"X":	15,
+									"Y":	-8,
+									"Z":	15
+								},
+								"Min":	{
+									"$NodeId":	"Point3D-4d1993bf-aae9-4e87-96d0-57cdd5dd14a9",
+									"X":	-15,
+									"Y":	-8,
+									"Z":	-15
+								},
+								"SubPattern":	{
+									"$NodeId":	"BlockSet.Pattern-e8c6e752-6f30-429f-a29f-d2ee165430b0",
+									"Type":	"BlockSet",
+									"Skip":	false,
+									"BlockSet":	{
+										"$NodeId":	"BlockSet.BlockMask-44649489-f913-4969-a068-64916b9128a2",
+										"Inclusive":	true,
+										"Materials":	[{
+												"$NodeId":	"Material-245ebe82-4219-4e80-a9e1-e1cc8844c59c",
+												"Solid":	"Soil_Grass_Full",
+												"SolidBottomUp":	false
+											}, {
+												"$NodeId":	"Material-158e1bf9-8ee6-451a-96c4-cacdd33dd2ea",
+												"Solid":	"Soil_Dirt",
+												"SolidBottomUp":	false
+											}, {
+												"$NodeId":	"Material-0bfd721c-5ddb-4d98-a542-a792d0f78f82",
+												"Solid":	"Rock_Marble",
+												"SolidBottomUp":	false
+											}]
+									}
+								}
+							}
+						},
+						"Scanner":	{
+							"$NodeId":	"ColumnLinear.Scanner-02a652fd-6e70-4778-ade6-fa8ada06b406",
+							"Type":	"ColumnLinear",
+							"Skip":	false,
+							"MaxY":	150,
+							"MinY":	0,
+							"RelativeToPosition":	false,
+							"BaseHeightName":	"Base",
+							"TopDownOrder":	true,
+							"ResultCap":	1
+						},
+						"MoldingDirection":	"NONE",
+						"MoldingChildren":	false
+					}
+				}
+			}, {
 				"$NodeId":	"Runtime-61100635-467a-43c6-8469-19cc3cb5da37",
 				"Skip":	false,
 				"Runtime":	1,
